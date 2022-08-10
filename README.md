@@ -11,8 +11,7 @@ This dataset contains data of petrol/gas price worldwide, world share and consum
 
 
 
-## Tools
-- Libraries: 
+## Tools 
 
 ![ power bi ](https://img.shields.io/badge/power_bi-D83B01??style=flat&logo=power-bi&logoColor=yallow)
 
